@@ -84,9 +84,13 @@ O script realiza os seguintes passos:
 
 ---
 
-## Contato
+## Autoria
 
-Caso tenha dúvidas ou sugestões, entre em contato.
+Dev Aprender | Jhonatan de Souza 
+
+jhonatan@devaprender.com
+
+link do video: https://www.youtube.com/watch?v=UtkPIpov6h8&list=PLnNURxKyyLIJ5ftIIYFLNNLyCmBx5uXYM&index=2
 
 ---
 
