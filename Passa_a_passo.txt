@@ -1,0 +1,13 @@
+1-Entrar na planilha
+2-Copiar a informação de um campo e colar no campo correspondente.
+3-Repetir os passos para outros campos até preencher os campos daquela página
+4-Clicar em próxima
+5-Repetir os mesmo passos e ir para a próxima página
+6-Finalizar o cadastro do produto, clicar em concluir.
+7-Clicar no ok.
+8-Clicar no ok novamente.
+9- Clicar em adicionar mais um
+10- Repetir o processo até finalizar a planilha
+
+#PyAutoGUI(automação de clicks e teclado)
+#Openpyxl
