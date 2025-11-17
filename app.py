@@ -114,25 +114,25 @@ for linha in sheet_produtos.iter_rows(min_row=2):
 
     pyautogui.click(1163,934, duration=1)
     sleep(1)
-    # Finalizar cadastro
+    # Finalize registration
     pyautogui.click(1649,234, duration=1)
     sleep(1)
-    # Adicionado ao banco de dados
+    # Added to database
     pyautogui.click(1653,232, duration=1)
     sleep(1)
-    # Adicionar mais um
+    # Add another
     pyautogui.click(1433,651, duration=1)
     sleep(1)
 
 
 
-#1-Entrar na planilha
-#2-Copiar a informação de um campo e colar no campo correspondente.
-#3-Repetir os passos para outros campos até preencher os campos daquela página
-#4-Clicar em próxima
-#5-Repetir os mesmo passos e ir para a próxima página
-#6-Finalizar o cadastro do produto, clicar em concluir.
-#7-Clicar no ok.
-#8-Clicar no ok novamente.
-#9- Clicar em adicionar mais um
-#10- Repetir o processo até finalizar a planilha
+#1-Enter the spreadsheet
+#2-Copy the information from a field and paste it into the corresponding field.
+#3-Repeat the steps for other fields until the fields on that page are filled
+#4-Click next
+#5-Repeat the same steps and go to the next page
+#6-Finalize the product registration, click finish.
+#7-Click ok.
+#8-Click ok again.
+#9- Click add another
+#10- Repeat the process until the spreadsheet is finished
